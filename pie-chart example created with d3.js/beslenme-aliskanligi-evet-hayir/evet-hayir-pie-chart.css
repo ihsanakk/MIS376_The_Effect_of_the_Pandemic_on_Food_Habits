@@ -1,0 +1,14 @@
+#evet-hayir-pie-chart .arc text {
+    font: 16px sans-serif;
+    text-anchor: middle;
+}
+
+#evet-hayir-pie-chart .arc path {
+    stroke: #fff;
+}
+
+#evet-hayir-pie-chart .title {
+    fill: teal;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
