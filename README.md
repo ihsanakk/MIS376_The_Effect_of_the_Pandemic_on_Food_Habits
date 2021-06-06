@@ -1,6 +1,10 @@
 # MIS376
 #### MIS376 Project
 
+```
+İhsan Tarık Akkoyunlu
+17030411057
+```
 
 ## Problem Description
 
